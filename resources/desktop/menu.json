@@ -1,0 +1,15 @@
+{
+  "leaf": false,
+  "children": [
+    { "text": "Home", "iconCls": "x-fa fa-home", "xtype": "homeview", "leaf": true },
+    { "text": "Personnel", "iconCls": "x-fa fa-table", "xtype": "personnelview","leaf": true },
+    { "text": "Anchor Layout", "iconCls": "fa fa-anchor", "xtype": "anchor_layout","leaf": true },
+    { "text": "Absolute Layout", "iconCls": "fa fa-window-restore", "xtype": "absolute_layout","leaf": true },
+    { "text": "Fit Layout", "iconCls": "fa fa-window-restore", "xtype": "fit_layout","leaf": true },
+    { "text": "Center Layout", "iconCls": "fa fa-window-restore", "xtype": "center_layout","leaf": true },
+    { "text": "Accordion Layout", "iconCls": "fa fa-window-restore", "xtype": "accordion_layout","leaf": true },
+    { "text": "Border Layout", "iconCls": "fa fa-window-restore", "xtype": "border_layout","leaf": true },
+    { "text": "Card Layout", "iconCls": "fa fa-window-restore", "xtype": "card_layout","leaf": true },
+    { "text": "Grid Clientes", "iconCls": "fa fa-th", "xtype": "grid_example","leaf": true }
+  ]
+}
